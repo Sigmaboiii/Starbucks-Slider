@@ -1,8 +1,8 @@
 # 🍼 Starbucks Slider Project:
 
 - Hello everyone! 🙋‍♂️ It's your boi Sigma here, and today I'm excited to share an awesome project with you all!
-
 - This project is a sleek Starbucks Slider, a visually stunning landing page showcasing various coffee flavors. 🍵🍄
+- **Demo Link**: https://coffee-slider.netlify.app/
 
 # 📃 Things You'll Need:
 
